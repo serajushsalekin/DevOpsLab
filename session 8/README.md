@@ -46,7 +46,7 @@ $ route
 $ arp -a
 ```
 
- 	4. To create a network namespace
+​	4. To create a network namespace
 
 ```
 $ sudo ip netns add ns1
@@ -59,7 +59,7 @@ $ sudo ip netns add ns2
 $ sudo ip netns list
 ```
 
-       6. enter a namespace
+​	6. enter a namespace
 
 ```
 $ sudo ip netns exec ns1 sh
